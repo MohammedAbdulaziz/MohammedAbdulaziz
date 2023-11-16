@@ -29,7 +29,7 @@
 
 ## Pinned Projects 🏗 :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohammedAbdulaziz&repo=clik&show_owner=true&theme=tokyonight)]([https://github.com/MohammedAbdulaziz/github-readme-stats](https://github.com/MohammedAbdulaziz/Clik))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohammedAbdulaziz&repo=clik&show_owner=true&theme=tokyonight)]([https://github.com/MohammedAbdulaziz/Clik])
 
 ## GitHub Stats 📈 :
 
