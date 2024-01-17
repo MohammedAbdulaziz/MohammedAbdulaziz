@@ -23,7 +23,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=nest,postgresql,typescript,prisma,sequelize,nextjs,react,sass,materialui,nodejs,express,mongodb,docker,terraform,k8s,aws,azure,githubactions,bash,linux,postman,flutter,dart,firebase,py,flask,js,html,css,cs,unity,cpp,go,java,figma,blender&perline=4&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nest,postgresql,typescript,prisma,sequelize,nextjs,react,sass,materialui,nodejs,express,mongodb,docker,terraform,k8s,aws,azure,githubactions,bash,linux,postman,flutter,dart,firebase,py,flask,js,html,css,cs,unity,cpp,go,java,figma,blender&perline=6&theme=dark)](https://skillicons.dev)
 
 <br>
 
