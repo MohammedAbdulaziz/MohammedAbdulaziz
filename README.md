@@ -5,7 +5,7 @@
 
 ## About Me :
 
--   🏢 I am currently studying **Artificial Intelligence** at **Cairo University Faculty of Computer and Artificial Intelligence**
+-   🏢 I am currently working as a **Fullstack Software Engineer** at **CrossWorkers**
 -   🏡 Lives in **Cairo**
 
 <br>
